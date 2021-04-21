@@ -5,3 +5,7 @@ Student.zip
 PneumoniaPrediction/test/
 PneumoniaPrediction/train/
 PneumoniaPrediction/val/
+FishClassification/Fish_Dataset/
+ImageClassification/seg_pred/
+ImageClassification/seg_train/
+ImageClassification/seg_test/
